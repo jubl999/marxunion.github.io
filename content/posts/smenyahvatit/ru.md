@@ -1,4 +1,4 @@
-title: «С меня хватит!»
+title: С меня хватит!
 lang: ru
 tags: Луч_СМ
 slug: smenyahvatit
